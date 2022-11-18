@@ -1,0 +1,1 @@
+{"name":"Local: removenumbers","url":"/home/aditya/Desktop/cp/removenumbers.cpp","tests":[{"id":1663949195501,"input":"7 2\n2 2 5 2 2 9 4\n2 4","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aditya/Desktop/cp/removenumbers.cpp","group":"local","local":true}

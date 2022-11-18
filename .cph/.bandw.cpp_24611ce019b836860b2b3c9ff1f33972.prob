@@ -1,0 +1,1 @@
+{"name":"Local: bandw","url":"/home/aditya/Desktop/cp/bandw.cpp","tests":[{"id":1661358865143,"input":"4\n3\n1 0 1\n4\n1 1 0 0\n8\n1 0 1 0 0 0 1 1\n5\n1 0 0 0 0","output":"Bob\nAlice\nBob"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aditya/Desktop/cp/bandw.cpp","group":"local","local":true}

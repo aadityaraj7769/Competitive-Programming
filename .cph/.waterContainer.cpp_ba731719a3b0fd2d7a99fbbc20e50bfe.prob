@@ -1,0 +1,1 @@
+{"name":"Local: waterContainer","url":"/home/aditya/Desktop/cp/waterContainer.cpp","tests":[{"id":1663522808718,"input":"2\n4 4\n1 2\n1 3\n2 4\n3\n3\n3\n3\n5 2\n1 2\n5 3\n3 1\n2 4\n4\n5","output":"Case #1: 4\nCase #2: 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aditya/Desktop/cp/waterContainer.cpp","group":"local","local":true}
